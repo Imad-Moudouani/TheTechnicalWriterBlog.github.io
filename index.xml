@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://imad-moudouani.github.io/TheTechnicalWriterBlog.github.io/</link>
-    <description>Recent content on </description>
+    <title>Terminal</title>
+    <link>/</link>
+    <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2023 20:29:40 +0000</lastBuildDate><atom:link href="https://imad-moudouani.github.io/TheTechnicalWriterBlog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jan 2023 20:29:40 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
-      <link>https://imad-moudouani.github.io/TheTechnicalWriterBlog.github.io/post/welcome/</link>
+      <link>/post/welcome/</link>
       <pubDate>Sat, 28 Jan 2023 20:29:40 +0000</pubDate>
       
-      <guid>https://imad-moudouani.github.io/TheTechnicalWriterBlog.github.io/post/welcome/</guid>
+      <guid>/post/welcome/</guid>
       <description>##hello world</description>
       <content>&lt;p&gt;##hello world&lt;/p&gt;
 </content>
