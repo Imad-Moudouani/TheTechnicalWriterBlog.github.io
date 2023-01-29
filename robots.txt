@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://imad-moudouani.github.io/TheTechnicalWriterBlog.github.io/sitemap.xml
