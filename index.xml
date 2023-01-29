@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal</title>
-    <link>/</link>
+    <link>https://TheTechnicalWriterBlog.github.io/</link>
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2023 20:29:40 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jan 2023 20:29:40 +0000</lastBuildDate><atom:link href="https://TheTechnicalWriterBlog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
-      <link>/post/welcome/</link>
+      <link>https://TheTechnicalWriterBlog.github.io/post/welcome/</link>
       <pubDate>Sat, 28 Jan 2023 20:29:40 +0000</pubDate>
       
-      <guid>/post/welcome/</guid>
+      <guid>https://TheTechnicalWriterBlog.github.io/post/welcome/</guid>
       <description>##hello world</description>
       <content>&lt;p&gt;##hello world&lt;/p&gt;
 </content>
