@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Go on The Technical Writer Blog</title>
-    <link>https://imad-moudouani.github.io/TheTechnicalWriterBlog.github.io/tags/go/</link>
+    <link>https://thetechnicalwriter.art/tags/go/</link>
     <description>Recent content in Go on The Technical Writer Blog</description>
     <image>
-      <url>https://imad-moudouani.github.io/TheTechnicalWriterBlog.github.io/papermod-cover.png</url>
-      <link>https://imad-moudouani.github.io/TheTechnicalWriterBlog.github.io/papermod-cover.png</link>
+      <url>https://thetechnicalwriter.art/papermod-cover.png</url>
+      <link>https://thetechnicalwriter.art/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Jan 2023 10:37:29 +0000</lastBuildDate><atom:link href="https://imad-moudouani.github.io/TheTechnicalWriterBlog.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jan 2023 10:37:29 +0000</lastBuildDate><atom:link href="https://thetechnicalwriter.art/tags/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome2</title>
-      <link>https://imad-moudouani.github.io/TheTechnicalWriterBlog.github.io/post/welcome2/</link>
+      <link>https://thetechnicalwriter.art/post/welcome2/</link>
       <pubDate>Sun, 29 Jan 2023 10:37:29 +0000</pubDate>
       
-      <guid>https://imad-moudouani.github.io/TheTechnicalWriterBlog.github.io/post/welcome2/</guid>
+      <guid>https://thetechnicalwriter.art/post/welcome2/</guid>
       <description>Suis eripiat curvataque parte squalentia post nec Quam latent vertebar fuit conscia teque Lorem markdownum dextris in volucrem torvi tribuitque petendo terra, indicium fortes tantum. Nec aret summo viscera Neptunius, virumque oculos pecoris. Cum quod, tellus gigantas sagax vos, Erymanthon vestri prius, quoniam. Sed concussit vultibus terrae triplicesque fuit iam certamina sinistrae Tiresia oscula est liventia educat decerpserat illo, Iove. Tamen concipit, ore vulnus soceri dapes inposita illos reparata fama.</description>
     </item>
     
     <item>
       <title>Welcome</title>
-      <link>https://imad-moudouani.github.io/TheTechnicalWriterBlog.github.io/post/welcome/</link>
+      <link>https://thetechnicalwriter.art/post/welcome/</link>
       <pubDate>Sat, 28 Jan 2023 20:29:40 +0000</pubDate>
       
-      <guid>https://imad-moudouani.github.io/TheTechnicalWriterBlog.github.io/post/welcome/</guid>
+      <guid>https://thetechnicalwriter.art/post/welcome/</guid>
       <description>##hello world</description>
     </item>
     
