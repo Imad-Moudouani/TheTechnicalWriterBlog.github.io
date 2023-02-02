@@ -9,40 +9,22 @@
       <link>https://thetechnicalwriter.art/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Jan 2023 10:37:29 +0000</lastBuildDate><atom:link href="https://thetechnicalwriter.art/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jan 2023 16:07:40 +0000</lastBuildDate><atom:link href="https://thetechnicalwriter.art/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blogging</title>
-      <link>https://thetechnicalwriter.art/tags/blogging/</link>
-      <pubDate>Sun, 29 Jan 2023 10:37:29 +0000</pubDate>
+      <title>doc-as-code</title>
+      <link>https://thetechnicalwriter.art/tags/doc-as-code/</link>
+      <pubDate>Mon, 30 Jan 2023 16:07:40 +0000</pubDate>
       
-      <guid>https://thetechnicalwriter.art/tags/blogging/</guid>
+      <guid>https://thetechnicalwriter.art/tags/doc-as-code/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Development</title>
-      <link>https://thetechnicalwriter.art/tags/development/</link>
-      <pubDate>Sun, 29 Jan 2023 10:37:29 +0000</pubDate>
+      <title>technical writing</title>
+      <link>https://thetechnicalwriter.art/tags/technical-writing/</link>
+      <pubDate>Mon, 30 Jan 2023 16:07:40 +0000</pubDate>
       
-      <guid>https://thetechnicalwriter.art/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fast</title>
-      <link>https://thetechnicalwriter.art/tags/fast/</link>
-      <pubDate>Sun, 29 Jan 2023 10:37:29 +0000</pubDate>
-      
-      <guid>https://thetechnicalwriter.art/tags/fast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>https://thetechnicalwriter.art/tags/go/</link>
-      <pubDate>Sun, 29 Jan 2023 10:37:29 +0000</pubDate>
-      
-      <guid>https://thetechnicalwriter.art/tags/go/</guid>
+      <guid>https://thetechnicalwriter.art/tags/technical-writing/</guid>
       <description></description>
     </item>
     

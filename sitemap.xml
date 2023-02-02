@@ -2,32 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thetechnicalwriter.art/tags/blogging/</loc>
-    <lastmod>2023-01-29T10:37:29+00:00</lastmod>
-  </url><url>
-    <loc>https://thetechnicalwriter.art/tags/development/</loc>
-    <lastmod>2023-01-29T10:37:29+00:00</lastmod>
-  </url><url>
-    <loc>https://thetechnicalwriter.art/tags/fast/</loc>
-    <lastmod>2023-01-29T10:37:29+00:00</lastmod>
-  </url><url>
-    <loc>https://thetechnicalwriter.art/tags/go/</loc>
-    <lastmod>2023-01-29T10:37:29+00:00</lastmod>
+    <loc>https://thetechnicalwriter.art/tags/doc-as-code/</loc>
+    <lastmod>2023-01-30T16:07:40+00:00</lastmod>
   </url><url>
     <loc>https://thetechnicalwriter.art/post/</loc>
-    <lastmod>2023-01-29T10:37:29+00:00</lastmod>
+    <lastmod>2023-01-30T16:07:40+00:00</lastmod>
   </url><url>
     <loc>https://thetechnicalwriter.art/tags/</loc>
-    <lastmod>2023-01-29T10:37:29+00:00</lastmod>
+    <lastmod>2023-01-30T16:07:40+00:00</lastmod>
+  </url><url>
+    <loc>https://thetechnicalwriter.art/tags/technical-writing/</loc>
+    <lastmod>2023-01-30T16:07:40+00:00</lastmod>
   </url><url>
     <loc>https://thetechnicalwriter.art/</loc>
-    <lastmod>2023-01-29T10:37:29+00:00</lastmod>
+    <lastmod>2023-01-30T16:07:40+00:00</lastmod>
   </url><url>
-    <loc>https://thetechnicalwriter.art/post/welcome2/</loc>
-    <lastmod>2023-01-29T10:37:29+00:00</lastmod>
-  </url><url>
-    <loc>https://thetechnicalwriter.art/post/welcome/</loc>
-    <lastmod>2023-01-28T20:29:40+00:00</lastmod>
+    <loc>https://thetechnicalwriter.art/post/why_doc_as_code/</loc>
+    <lastmod>2023-01-30T16:07:40+00:00</lastmod>
   </url><url>
     <loc>https://thetechnicalwriter.art/archives/</loc>
   </url><url>
