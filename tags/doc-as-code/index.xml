@@ -11,7 +11,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 30 Jan 2023 16:07:40 +0000</lastBuildDate><atom:link href="https://thetechnicalwriter.art/tags/doc-as-code/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why_doc_as_code</title>
+      <title>10 Common Mistakes to Avoid in Technical Writing</title>
+      <link>https://thetechnicalwriter.art/post/10-common-mistakes-to-avoid-in-technical-writing/</link>
+      <pubDate>Mon, 30 Jan 2023 16:07:40 +0000</pubDate>
+      
+      <guid>https://thetechnicalwriter.art/post/10-common-mistakes-to-avoid-in-technical-writing/</guid>
+      <description>Technical writing is a critical aspect of software development and many other industries. It involves the creation of documents that communicate technical information to end-users, stakeholders, and other developers. Effective technical writing is essential for ensuring that software projects are delivered on time, within budget, and with a high level of quality. However, many technical writers make mistakes that can negatively impact the quality of the final product. In this article, we will discuss the ten most common mistakes that technical writers make and how to avoid them.</description>
+    </item>
+    
+    <item>
+      <title>The Importance of Technical Writers in Software Documentation</title>
+      <link>https://thetechnicalwriter.art/post/the-importance-of-technical-writers-in-software-documentation/</link>
+      <pubDate>Mon, 30 Jan 2023 16:07:40 +0000</pubDate>
+      
+      <guid>https://thetechnicalwriter.art/post/the-importance-of-technical-writers-in-software-documentation/</guid>
+      <description>The Importance of Technical Writers in Software Documentation In the world of software development, documentation is just as important as the code itself. Documenting a software and API allows developers to communicate with other developers, stakeholders, and end-users, ensuring that everyone understands how the software works and how to use it. But should software engineers be responsible for writing all the documentation? The short answer is no. In this article, we’ll explore the reasons why technical writers are crucial to a software development team and the documentation process.</description>
+    </item>
+    
+    <item>
+      <title>Why your org should seriously consider Doc as Code for Documentation </title>
       <link>https://thetechnicalwriter.art/post/why-your-org-should-seriously-consider-doc-as-code-for-documentation/</link>
       <pubDate>Mon, 30 Jan 2023 16:07:40 +0000</pubDate>
       
